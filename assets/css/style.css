@@ -185,3 +185,6 @@ th { background: var(--soft); }
     .hero-grid, .grid-3, .grid-2, .footer-grid { grid-template-columns: 1fr; }
     .hero { padding: 50px 0; }
 }
+
+.focus-list { padding-left: 20px; color: var(--muted); }
+.focus-list li { margin-bottom: 8px; }
